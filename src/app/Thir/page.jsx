@@ -2,7 +2,7 @@ import React from "react";
 
 const Thir = () => {
   return (
-    <div className=" px-3  my-0 ">
+    <div className=" px-3  mt-8 ">
       <div className="header  ">
         <div className="headera   w-[100vw]  ">
           <div className=" text-[#8873EF] text-[8px]  origin-top-left -rotate-45 ">
