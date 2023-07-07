@@ -2,7 +2,7 @@ import React from "react";
 
 const Thir = () => {
   return (
-    <div className=" px-3  mt-8 ">
+    <div className=" px-3 mb-[-12px] mt-8 ">
       <div className="header  ">
         <div className="headera   w-[100vw]  ">
           <div className=" text-[#8873EF] text-[8px]  origin-top-left -rotate-45 ">
@@ -15,7 +15,7 @@ const Thir = () => {
             <br />
             Experience
           </div>
-          <div className="">
+          <div className="text-[12px]">
             Hi! I’m a UI/UX Designer - creating bold & brave interface design
             for companies all across the world.
           </div>
@@ -75,19 +75,21 @@ const Thir = () => {
         <div className="headerc pt-5 space-y-6">
           <div className=" font-bold text-2xl  md:text-4xl"> SKILLS</div>
           <div className="image flex space-x-6 ">
-            <img  src="/Group3.png" className="md:w-1/6 w-1/4 h-1/6" alt="" />
-            <img  src="/Group4.png" className="md:w-1/6 w-1/4 h-1/6" alt="" />
-            <img  src="/Group5.png" className="md:w-1/6 w-1/4 h-1/6" alt="" />
+            <img src="/Group3.png" className="md:w-1/6 w-1/4 h-1/6" alt="" />
+            <img src="/Group4.png" className="md:w-1/6 w-1/4 h-1/6" alt="" />
+            <img src="/Group5.png" className="md:w-1/6 w-1/4 h-1/6" alt="" />
           </div>
           <div className="image flex space-x-6">
-            <img  src="/Group6.png" className="md:w-1/6  w-1/4 h-1/6" alt="" />
-            <img  src="/Group7.png" className="md:w-1/6  w-1/4 h-1/6" alt="" />
-            <img  src="/Group8.png" className="md:w-1/6  w-1/4 h-1/6" alt="" />
+            <img src="/Group6.png" className="md:w-1/6  w-1/4 h-1/6" alt="" />
+            <img src="/Group7.png" className="md:w-1/6  w-1/4 h-1/6" alt="" />
+            <img src="/Group8.png" className="md:w-1/6  w-1/4 h-1/6" alt="" />
           </div>
-        
         </div>
       </div>
-      <img src="/sec.png"  className="pt-12" alt="" />
+      <div className="pt-3  flex justify-center">
+        {" "}
+        <img src="/sec.png" className=" h-48     " alt="" />
+      </div>
     </div>
   );
 };

@@ -26,13 +26,13 @@ const DD = () => {
           </div>
           <div className="hero1-b ">
             <div className="heder1 pt-[30px] ">
-              <div className="Line4 w-[200] md:w-[200.03px] h-[0px] border border-black"></div>
+              <div className="Line4 w-[200] md:w-[500px] h-[0px] border border-black"></div>
               <div className="flex space-x-4">
                 <div className="  text-black text-[14px] md:text-[34.85697555541992px] font-bold">
                   01/
                 </div>
 
-                <div className="WebUiUxDesign text-black text-[20px] md:text-[74.74671936035156px]  font-bold">
+                <div className="WebUiUxDesign text-black text-[20px] md:text-[60px]  font-bold">
                   Web UI/UX Design
                 </div>
               </div>
@@ -42,30 +42,36 @@ const DD = () => {
                 <img className="w-8 h-8" src="/77.png" alt="" />
               </div>
             </div>
-            <div className="heder2 pt-[30px] ">
-              <div className="Line4 w-[200] md:w-[200.03px] h-[0px] border border-black"></div>
-              <div className="  text-black text-[14px] md:text-[34.85697555541992px] font-bold">
-                01/
+            <div className="heder1 pt-[30px] ">
+              <div className="Line4 w-[200] md:w-[500px] h-[0px] border border-black"></div>
+              <div className="flex space-x-4">
+                <div className="  text-black text-[14px] md:text-[34.85697555541992px] font-bold">
+                  01/
+                </div>
+
+                <div className="WebUiUxDesign text-black text-[20px] md:text-[60px]  font-bold">
+                  Web UI/UX Design
+                </div>
               </div>
 
-              <div className="WebUiUxDesign text-black text-[20px] md:text-[74.74671936035156px] pl-9 font-bold">
-                Web UI/UX Design
-              </div>
-              <div className="flex justify-between pt-2">
+              <div className="flex justify-between ">
                 <div className="pl-9">Explore</div>
                 <img className="w-8 h-8" src="/77.png" alt="" />
               </div>
             </div>
-            <div className="heder3 pt-[30px] ">
-              <div className="Line4 w-[200] md:w-[200.03px] h-[0px] border border-black"></div>
-              <div className="  text-black text-[14px] md:text-[34.85697555541992px] font-bold">
-                01/
+            <div className="heder1 pt-[30px] ">
+              <div className="Line4 w-[200] md:w-[500px] h-[0px] border border-black"></div>
+              <div className="flex space-x-4">
+                <div className="  text-black text-[14px] md:text-[34.85697555541992px] font-bold">
+                  01/
+                </div>
+
+                <div className="WebUiUxDesign text-black text-[20px] md:text-[60px]  font-bold">
+                  Web UI/UX Design
+                </div>
               </div>
 
-              <div className="WebUiUxDesign text-black text-[20px] md:text-[74.74671936035156px] pl-9 font-bold">
-                Web UI/UX Design
-              </div>
-              <div className="flex justify-between pt-2">
+              <div className="flex justify-between ">
                 <div className="pl-9">Explore</div>
                 <img className="w-8 h-8" src="/77.png" alt="" />
               </div>
